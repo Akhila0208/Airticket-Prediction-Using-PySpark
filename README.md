@@ -105,7 +105,3 @@ The project successfully developed a model to predict air ticket prices with imp
 4. **Model Training:** Train the models using the provided scripts.
 5. **Model Evaluation:** Evaluate the models using RMSE to determine accuracy.
 6. **Prediction:** Use the trained model to predict air ticket prices based on new data inputs.
-
-## Contact
-
-For any questions or further information, please contact at namani.teja19@gmail.com.
